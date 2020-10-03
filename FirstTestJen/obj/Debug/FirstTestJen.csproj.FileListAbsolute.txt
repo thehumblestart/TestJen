@@ -1,0 +1,10 @@
+C:\Users\Ted\source\repos\FirstTestJen\FirstTestJen\bin\Debug\FirstTestJen.exe.config
+C:\Users\Ted\source\repos\FirstTestJen\FirstTestJen\bin\Debug\FirstTestJen.exe
+C:\Users\Ted\source\repos\FirstTestJen\FirstTestJen\bin\Debug\FirstTestJen.pdb
+C:\Users\Ted\source\repos\FirstTestJen\FirstTestJen\obj\Debug\FirstTestJen.csprojAssemblyReference.cache
+C:\Users\Ted\source\repos\FirstTestJen\FirstTestJen\obj\Debug\FirstTestJen.Form1.resources
+C:\Users\Ted\source\repos\FirstTestJen\FirstTestJen\obj\Debug\FirstTestJen.Properties.Resources.resources
+C:\Users\Ted\source\repos\FirstTestJen\FirstTestJen\obj\Debug\FirstTestJen.csproj.GenerateResource.cache
+C:\Users\Ted\source\repos\FirstTestJen\FirstTestJen\obj\Debug\FirstTestJen.csproj.CoreCompileInputs.cache
+C:\Users\Ted\source\repos\FirstTestJen\FirstTestJen\obj\Debug\FirstTestJen.exe
+C:\Users\Ted\source\repos\FirstTestJen\FirstTestJen\obj\Debug\FirstTestJen.pdb
