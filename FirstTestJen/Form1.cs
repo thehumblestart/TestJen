@@ -21,6 +21,7 @@ namespace FirstTestJen
         {
             var a = "adf";
             var b = "adaaf";
+            var bd= "aadfdaaf";
         }
     }
 }
